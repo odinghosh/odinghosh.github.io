@@ -11,7 +11,7 @@ header{
     width: 100%;
     margin: 0 auto;
     padding: 20px 0px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     border-radius: 10px;
     
 }
@@ -23,15 +23,17 @@ h1{
 
 nav a{
     display:block;
+    font-size: 150%;
+    text-decoration: none;
+    color: rgb(194, 187, 187);
 }
 nav{
     text-align: center;
     margin: 0 auto;
     display:block;
-    
+    padding: 10px 0px;
     background-color: rgb(217, 222, 224);
     width: 100%;
-    padding-bottom: 10%;
     border-radius: 10px;
 }
 
@@ -49,22 +51,24 @@ section{
     overflow:auto;
 }
 
-#education{
-    text-align: center;
-}
 section p{
-    
     display: inline;
+    
     
 }
 section img{
     
+    transform: translate(0,-20px);
     width: 10%;
     float:left;
     margin: 10px;
     border-radius: 10px;
 
     
+}
+
+details{
+    padding:10px;
 }
 
 
