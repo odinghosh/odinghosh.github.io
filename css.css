@@ -59,9 +59,11 @@ section p{
     
 }
 section img{
-    width: 30%;
+    
+    width: 20%;
     float:left;
-    margin-left: 5px;
+    margin: 10px;
+    border-radius: 10px;
 
     
 }
