@@ -1,0 +1,70 @@
+
+body{
+    
+    margin: 20px;
+    
+}
+header{
+    display: block;
+    background-color: #000088;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px 0px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    
+}
+
+h1{
+    color: white;
+
+}
+
+nav a{
+    display:block;
+}
+nav{
+    text-align: center;
+    margin: 0 auto;
+    display:block;
+    
+    background-color: rgb(217, 222, 224);
+    width: 100%;
+    padding-bottom: 10%;
+    border-radius: 10px;
+}
+
+h2{
+    clear:bottom;
+    text-align:center;
+    
+}
+section{
+    background: #AAAAAA;
+    padding-bottom: 5%;
+    display:block;
+    margin: 10px 0px;
+    border-radius: 10px;
+    overflow:auto;
+}
+
+#education{
+    text-align: center;
+}
+section p{
+    
+    display: inline-block;
+    width: 60%;
+    
+}
+section img{
+    transform:rotate(270deg);
+    width: 30%;
+    float:left;
+    margin-left: 5px;
+
+    
+}
+
+
